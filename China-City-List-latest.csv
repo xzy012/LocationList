@@ -56,7 +56,6 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101040300,Hechuan,合川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.9910,106.2656,500117
 101040400,Nanchuan,南川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.1566,107.0982,500119
 101040500,Jiangjin,江津,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.2834,106.2532,500116
-101040700,Yu Bei,渝北,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.7181,106.6312,500112
 101040800,Beibei,北碚,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.8254,106.4379,500109
 101040900,Banan,巴南,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.3819,106.5194,500113
 101041000,Changshou,长寿,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.8337,107.0749,500115
@@ -85,11 +84,11 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101043400,Youyang,酉阳,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,28.8398,108.7672,500242
 101043500,Dadukou,大渡口,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.4810,106.4861,500104
 101043600,Xiushan,秀山,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,28.4448,108.9960,500241
-101043700,Jiangbei,江北,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5754,106.5328,500105
 101043800,Shapingba,沙坪坝,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5412,106.4542,500106
 101043900,Jiulongpo,九龙坡,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5235,106.4810,500107
 101044000,Nan'an,南岸,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5011,106.6443,500108
 101044100,Kaizhou,开州,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,31.1677,108.4133,500154
+101044200,LiangJiang New Area,两江新区,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.642730,106.566020,-
 101050101,Harbin,哈尔滨,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.8030,126.5351,230100
 101050102,Shuangcheng,双城,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.3779,126.3088,230113
 101050103,Hulan,呼兰,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.8896,126.5877,230111
@@ -3578,3 +3577,4 @@ F2FA2,Shengang District,神冈区,TW,"Taiwan, Province of China",中国台湾省
 F35CF,Beigang Township,北港镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.5920,120.2940,710000
 F4F1,Yanpu Township,盐埔乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.7430,120.5690,710000
 F69B,Xinwu District,新屋区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.9710,121.1040,710000
+
